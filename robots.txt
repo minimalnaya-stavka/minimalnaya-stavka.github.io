@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: minimalnaya-stavka.github.io
+Sitemap: https://minimalnaya-stavka.github.io/sitemap.xml
